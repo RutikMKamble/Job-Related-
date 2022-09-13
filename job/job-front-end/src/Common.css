@@ -1,0 +1,46 @@
+.small-img{
+    width: 120px;
+    margin-right: 2rem;
+}
+.mg-r-0{
+    margin-right: 0 !important;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.grid-two{
+    display: flex;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+}
+.grid-one{
+    display: grid;
+}
+.center-div{
+    margin: 2rem 10rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+.margin-right{
+    margin: 0.5rem;
+    margin-right: 4rem;
+}
+.width-full{
+    height: 80vh;
+    margin-right: 0;
+}
+.footer-width{
+    height: 1rem !important;
+}
+.card-group-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 2rem;
+    grid-row-gap: 2rem;
+    grid-column-gap: 2rem;
+}
+.margin-two{
+    margin: 3% 5% !important;
+}
